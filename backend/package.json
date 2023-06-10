@@ -1,0 +1,19 @@
+{
+  "name": "apv-backend",
+  "version": "1.0.0",
+  "description": "Proyecto FullStack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauroociappinaph/Veterinaria-FullStack.git"
+  },
+  "author": "Mauro Ciappina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauroociappinaph/Veterinaria-FullStack/issues"
+  },
+  "homepage": "https://github.com/mauroociappinaph/Veterinaria-FullStack#readme"
+}
